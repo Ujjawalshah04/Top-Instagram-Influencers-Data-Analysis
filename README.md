@@ -66,11 +66,6 @@ In this project, we explore the world of top Instagram influencers using data sc
 
 ---
 
-## 📈 Dashboard
-
-
-
-
 ## 🙌 Acknowledgements
 
 Thanks to Unified Mentor for providing the data that inspired this analysis.
